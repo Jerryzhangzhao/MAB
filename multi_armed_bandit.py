@@ -87,6 +87,8 @@ class MAB():
             
     def sofmax_method(self):
         '''
+           softmax method: calculate the softmax value of each arm's avarage reward,
+           and pick the arm with greatest softmax value. 
         '''
         tao = 1
         exp_sum = 0
