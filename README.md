@@ -8,7 +8,6 @@
 2.1 manual choose one arm\<br>
 ![image](https://github.com/Jerryzhangzhao/MAB/blob/master/images/manual%20choose.png)
 
-2.2 epsilon greedy method\<br>
-
-2.3 softmax method\<br>
+2.2 epsilon greedy method   
+2.3 softmax method</br>
 ![image](https://github.com/Jerryzhangzhao/MAB/blob/master/images/softmax%20method.png)
